@@ -1,0 +1,18 @@
+:root {
+  /* Palet referensi pengguna: navy, ocean, steel, sky, ice. */
+  --navy: #021024;
+  --ocean: #052659;
+  --steel: #5483b3;
+  --sky: #7da0ca;
+  --ice: #c1e8ff;
+
+  /* Peran warna; latar tetap cerah, navy untuk teks dan aksi. */
+  --paper: #f3faff;
+  --surface: #e7f5ff;
+  --ink: var(--navy);
+  --muted: #405e80;
+  --accent: var(--ocean);
+  --line: #7da0ca45;
+  --font: 'Manrope', 'Arial', sans-serif;
+  --max-width: 1180px;
+}
